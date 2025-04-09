@@ -4,8 +4,8 @@ import type { CountryDataShort } from "~/types";
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "New React Router App" },
-    { name: "description", content: "Welcome to React Router!" },
+    { title: "Countries" },
+    { name: "description", content: "View all countries of the world!" },
   ];
 }
 
